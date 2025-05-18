@@ -9,7 +9,7 @@
 @echo off
 
 title Bruteforcer 1.0
-color A
+color 4
 
 echo.
 set /p ip="Enter IP Address: "
